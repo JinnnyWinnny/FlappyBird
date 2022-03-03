@@ -22,7 +22,7 @@
   
 <h2 align="center">Project Description</h2>
 
-![screenshot](img/bird.png)
+![screenshot](bird.PNG)
 
 
 Created Game "Flappy Bird" which already exits but with my own code in Unity. Flappy Bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company .Gears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them. -Wikipedia 
